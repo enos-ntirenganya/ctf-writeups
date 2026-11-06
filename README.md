@@ -22,6 +22,5 @@ Cybersecurity enthusiast and digital forensics student. I play CTFs using Kali L
 | _coming soon_ | | | |
 
 ## Contact
-LinkedIn: add your link here
-
+LinkedIn: https://www.linkedin.com/in/ntirenganya-enos-785594406/
 > Writeups are published only for challenges from events that have ended, or from practice platforms that allow sharing.
