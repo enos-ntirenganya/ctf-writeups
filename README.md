@@ -19,7 +19,7 @@ Cybersecurity enthusiast and digital forensics student. I play CTFs using Kali L
 ## Writeups
 | Challenge | Category | Difficulty | Event |
 |-----------|----------|------------|-------|
-| _coming soon_ | | | |
+| [Beacon](beacon.md) | Network forensics | Easy (100 pts) | 31 Nights of r00t (Oct 2026) |
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/ntirenganya-enos-785594406/
