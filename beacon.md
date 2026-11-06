@@ -2,7 +2,7 @@
 
 - **Writeup author:** Enos Ntirenganya
 - **Challenge author:** LordSudo
-- **Event:** _add the event name here_
+- **Event:** 31 Nights of r00t (October 2026, ended)
 - **Category:** Network forensics
 - **Difficulty / Points:** Easy / 100
 - **Tools used:** `unzip`, `file`, `tshark`, `xxd`, `strings`, `python3`
