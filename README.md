@@ -28,6 +28,9 @@ Cybersecurity enthusiast and digital forensics student. I play CTFs using Kali L
 - Reverse engineering
 - Steganography
 
+## Related
+Cybersecurity projects: https://github.com/enos-ntirenganya/cybersecurity-projects
+
 ## Contact
 LinkedIn: https://www.linkedin.com/in/ntirenganya-enos-785594406/
 
