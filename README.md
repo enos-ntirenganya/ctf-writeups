@@ -13,7 +13,6 @@ Cybersecurity enthusiast and digital forensics student. I play CTFs using Kali L
 | Challenge | Category | Difficulty | Points |
 |-----------|----------|------------|--------|
 | [Beacon](writeups/beacon.md) | Network forensics | Easy | 100 |
-| [Session Cache](writeups/session-cache.pdf) | Memory forensics | Easy | 100 |
 | [The Hunt](writeups/the-hunt.pdf) | Network forensics (Modbus/ICS) | Medium | 150 |
 | [Ouroboros](writeups/ouroboros.pdf) | Reverse engineering | Medium | 200 |
 | [Pensive Shard](writeups/pensive-shard.pdf) | Memory and disk forensics | Medium | 200 |
